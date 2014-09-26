@@ -10,7 +10,7 @@ Remember the coding principles:
 
 For more on coding principles, check out:
 
-http://www.artima.com/weblogs/viewpost.jsp?thread=331531 and
+http://www.artima.com/weblogs/viewpost.jsp?thread=331531
 
 http://blog.codinghorror.com/curlys-law-do-one-thing/ (everything it says about classes applies equally to methods). 
 
