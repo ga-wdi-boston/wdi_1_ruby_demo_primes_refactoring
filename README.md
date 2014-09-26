@@ -8,7 +8,9 @@ Remember the coding principles:
 - Don't Repeat Yourself (if you find yourself typing the same code twice, it's probably a good idea to refactor)
 - Separate Input, Output, and Computation 
 
-For more on coding principles, check out: 
+For more on coding principles, check out:
+
 http://www.artima.com/weblogs/viewpost.jsp?thread=331531 and
+
 http://blog.codinghorror.com/curlys-law-do-one-thing/ (everything it says about classes applies equally to methods). 
 
