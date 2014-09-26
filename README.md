@@ -5,7 +5,7 @@ In this demo, I show 4 different ways of writing a Ruby method to check if a num
 
 Remember the coding principles: 
 - Single Responsibility Principle (a method should do one thing, and one thing only)
-- Don't Repeat Yourself (if you find yourself typing the same code twice, it's a good idea to refactor)
+- Don't Repeat Yourself (if you find yourself typing the same code twice, it's probably a good idea to refactor)
 - Separate Input, Output, and Computation 
 
 For more on coding principles, check out: 
